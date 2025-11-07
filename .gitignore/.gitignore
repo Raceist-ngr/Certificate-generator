@@ -1,0 +1,14 @@
+# Build output
+target/
+out/
+*.jar
+*.class
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS temporary
+Thumbs.db
+.DS_Store
