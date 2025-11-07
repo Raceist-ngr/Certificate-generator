@@ -1,6 +1,7 @@
 # Build output
 target/
 out/
+out2/
 *.jar
 *.class
 *.log
@@ -9,6 +10,6 @@ out/
 .vscode/
 .idea/
 
-# OS temporary
+# OS junk
 Thumbs.db
 .DS_Store
